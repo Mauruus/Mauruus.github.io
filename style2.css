@@ -1,0 +1,26 @@
+
+body {
+    background-color:rgb(226,220,208) ;  
+}
+@font-face{
+    font-family: "Slackey";
+    src: url(slackey.ttf) ;
+}
+html, body {
+    font-family: "Slackey", Arial, Helvetica, sans-serif;
+}
+.compraa {
+    font-size: 70px;
+    text-align: center;
+}
+.tarjetas {
+    display: block;
+    margin-top: 400px;
+    margin-left: 350px;
+
+}
+@media (max-width:2200px) {
+    .culon {
+        margin-left: 40cm; 
+    }
+}

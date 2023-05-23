@@ -1,0 +1,38 @@
+.culon {
+    display: block;
+    width: 100px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 20px 20px;
+    padding: 15px 30px;
+    background-color: rgb(36,23,25);
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 13cm;
+    padding-left: 1.5cm;
+    padding-right: 1.5cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+body {
+    background-color:rgb(226,220,208) ;  
+}
+.fotoculo {
+    display: block;
+    margin-top: 85px;
+    margin-left: 375px;
+}
+@font-face{
+    font-family: "Slackey";
+    src: url(slackey.ttf) ;
+}
+html, body {
+    font-family: "Slackey", Arial, Helvetica, sans-serif;
+}
+body,html {
+    background-color:rgb(226,220,208) ;  
+}
